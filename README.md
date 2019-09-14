@@ -1,24 +1,21 @@
-# README
+# Grammable
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is meant to be an Instagram clone. It is mostly an exercise in test-driven development - specifically RSpec. It was built using Ruby on Rails. User authentication was enabled by Devise. PostgreSQL was used for database management. Bootstrap came in handy for the design.
 
-Things you may want to cover:
+Visitors must sign up to make a post and/or comment on other posts.
 
-* Ruby version
+## Click [here](https://grammable-rajkumar-mukerjee.herokuapp.com/) to view.
 
-* System dependencies
+This is the home page:
 
-* Configuration
+![Home Screenshot](./app/assets/images/grammable.png)
 
-* Database creation
+## Tools & Resources
 
-* Database initialization
+* [Ruby on Rails](https://rubyonrails.org/) 
+* [PostgreSQL](https://www.postgresql.org/)
+* [Bootstrap](https://getbootstrap.com/)
+* [Devise](https://github.com/plataformatec/devise/)
+* [RSpec](https://github.com/rspec/rspec-rails/)
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Enjoy your day!
