@@ -77,7 +77,7 @@ end
 
 gem 'simple_form'
 
-gem 'devise'
+gem "devise", ">= 4.7.1"
 
 gem 'carrierwave', '>= 2.0.0.rc', '< 3.0'
 
